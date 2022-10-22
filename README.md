@@ -1,3 +1,3 @@
 # Python_Games
-`DEPRECATED!!`
+# `DEPRECATED!!`
 Simple games, implemented with pygame and tkinter
